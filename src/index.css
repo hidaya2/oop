@@ -1,0 +1,33 @@
+.logo{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 15px;
+    background-image: linear-gradient(to right, violet, blue, hotpink, green);
+}
+section{
+    background-color: aquamarine;
+    display: flex;
+    flex-wrap: wrap;
+  
+
+    
+}
+.shoes{
+    margin: 15px;
+    
+}
+.head{
+    background-color: chartreuse;
+}
+.btn{
+    height: 50px;
+    width: 150px;
+    border-radius: 75px;
+    background-color: orangered;
+    color: white;
+}
+form{
+    display: flex;
+    justify-content: center;
+    height: 30px;
+}
